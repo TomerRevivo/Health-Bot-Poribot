@@ -1,0 +1,50 @@
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.exe
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.deps.json
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.runtimeconfig.json
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.runtimeconfig.dev.json
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.dll
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.pdb
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.csprojAssemblyReference.cache
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.Form1.resources
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.Properties.Resources.resources
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.csproj.GenerateResource.cache
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.AssemblyInfoInputs.cache
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.AssemblyInfo.cs
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.csproj.CoreCompileInputs.cache
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.dll
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.pdb
+C:\Users\שלי רביבו\source\repos\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.genruntimeconfig.cache
+C:\project poriBot\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.exe
+C:\project poriBot\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.deps.json
+C:\project poriBot\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.runtimeconfig.json
+C:\project poriBot\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.runtimeconfig.dev.json
+C:\project poriBot\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.dll
+C:\project poriBot\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.pdb
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.Form1.resources
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.Properties.Resources.resources
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.csproj.GenerateResource.cache
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.AssemblyInfoInputs.cache
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.AssemblyInfo.cs
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.csproj.CoreCompileInputs.cache
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.dll
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.pdb
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.genruntimeconfig.cache
+C:\project poriBot\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.exe
+C:\Users\tomer\Desktop\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.deps.json
+C:\Users\tomer\Desktop\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.runtimeconfig.json
+C:\Users\tomer\Desktop\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.runtimeconfig.dev.json
+C:\Users\tomer\Desktop\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.dll
+C:\Users\tomer\Desktop\poriBot\poriBot\bin\Debug\netcoreapp3.1\poriBot.pdb
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.Form1.resources
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.Properties.Resources.resources
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.csproj.GenerateResource.cache
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.AssemblyInfoInputs.cache
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.AssemblyInfo.cs
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.dll
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.pdb
+C:\Users\tomer\Desktop\poriBot\poriBot\obj\Debug\netcoreapp3.1\poriBot.genruntimeconfig.cache
